@@ -1,0 +1,26 @@
+{
+    "name": "@vue-bw-fw/tools",
+    "version": "0.0.7",
+    "description": "> TODO: description",
+    "author": "scott <scott@boardware.com>",
+    "homepage": "",
+    "license": "ISC",
+    "main": "dist/index.js",
+    "directories": {
+        "lib": "lib",
+        "test": "__tests__"
+    },
+    "files": [
+        "lib"
+    ],
+    "publishConfig": {
+        "registry": "http://registry.npmjs.org/"
+    },
+    "scripts": {
+        "test": "echo \"Error: run tests from root\" && exit 1"
+    },
+    "gitHead": "8c50aee247cf3467ebd43886478c6ec08b303fd0",
+    "dependencies": {
+        "vue-bw-fw": "D:\\boardware_work\\lerna\\vue-bw-fw"
+    }
+}
