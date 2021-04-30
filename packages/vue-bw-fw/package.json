@@ -19,7 +19,7 @@
     "scripts": {
         "test": "echo \"Error: run tests from root\" && exit 1"
     },
-    "gitHead": "8c50aee247cf3467ebd43886478c6ec08b303fd0",
+    "gitHead": "6297a6f192b2cadc4f6c2aeadfa553810faf8cf3",
     "dependencies": {
         "vue-bw-fw": "D:\\boardware_work\\lerna\\vue-fw-lerna"
     }
